@@ -1,0 +1,3 @@
+# Ignore all ipython notebook checkpoints in repository #
+
+.ipynb_checkpoints

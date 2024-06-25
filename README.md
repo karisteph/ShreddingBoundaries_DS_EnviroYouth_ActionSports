@@ -99,7 +99,7 @@ Air Quality:
 
 ## Recommendations
 
-1. Brujas: Consider using your social media platform to enlighten the community of the evnironmental dangers posed to urban skateboarders. A color coded map that highlights the areas with the highest concentrations of PM 2.5 could make it easier for people to engage with the content.
+1. Brujas: Consider using your social media platform to enlighten the community of the environmental dangers posed to urban skateboarders. A color coded map that highlights the areas with the highest concentrations of PM 2.5 could make it easier for people to engage with the content.
   
 2. Laru Beya: Organize beach clean ups in targeted areas of the beach and the time of the year when they are the most polluted.
 

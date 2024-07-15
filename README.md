@@ -127,12 +127,10 @@ Refer to the [Presentation](https://www.canva.com/design/DAGJhsmSv70/HENltxsmRZS
 
 ## Repository Structure
 
-|— README.md                                                 <- The top-level README for reviewers of this project
 |— ShreddingBoundaries_DS_EnviroYouth_ActionSports_Repo.pdf  <- PDF version of repository
-|— ShreddingBoundaries_DS_EnviroYouth_ActionSports_Presentation.pdf <- PDF version of project presentation
-|— ShreddingBoundaries_DS_EnviroYouth_ActionSports.ipynb     <- Interactive computing environment including analysis in Jupyter                                                                            notebook
-|—                                                           <- PDF version of jupyter notebook
+|— ShreddingBoundaries_Presentation.pdf                       <- PDF version of project presentation
+|— ShreddingBoundaries_DS_EnviroYouth_ActionSports.ipynb      <- Interactive computing environment including analysis in Jupyter                                                                            notebook
+|— ShreddingBoundaries_DS_EnviroYouth_ActionSports-JupyterNotebook_PDF.pdf  <- PDF version of jupyter notebook
+|— README.md                                                 <- The top-level README for reviewers of this project
 |— .gitignore                                                <- Exclude listed files
 |— Data                                                      <- Beach Water Samples dataset and Air Quality dataset
-
-

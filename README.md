@@ -126,7 +126,7 @@ Refer to the [Presentation](https://www.canva.com/design/DAGJhsmSv70/HENltxsmRZS
 [Karina Baculima](https://github.com/karisteph)
 
 ## Repository Structure
-
+```
 |— ShreddingBoundaries_DS_EnviroYouth_ActionSports_Repo.pdf  <- PDF version of repository
 |— ShreddingBoundaries_Presentation.pdf                       <- PDF version of project presentation
 |— ShreddingBoundaries_DS_EnviroYouth_ActionSports.ipynb      <- Interactive computing environment including analysis in Jupyter                                                                            notebook
@@ -134,3 +134,4 @@ Refer to the [Presentation](https://www.canva.com/design/DAGJhsmSv70/HENltxsmRZS
 |— README.md                                                 <- The top-level README for reviewers of this project
 |— .gitignore                                                <- Exclude listed files
 |— Data                                                      <- Beach Water Samples dataset and Air Quality dataset
+```

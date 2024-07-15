@@ -105,7 +105,7 @@ Air Quality:
 
 3. Brujas + Laru Beya: Host a surf skate workshop with the goal of empowerment through knowledge. Environmental component:Frame air and water quality information as a tool for personal empowerment rather than a set of rules. Explain how air pollution and water contamination affects the body during intense physical activities especially for surfers and skateboarders who are in those environments for long periods of time. Highlight how understanding air and water quality can help them make informed decisions about when and where to skate and/or surf to maximize their performance and reduce the risk of discomfort or health issues. Action sports component: surfers teach skaters how to surf and skaters teach surfers how to skate. Swap skills, make new connections, strengthen the community. 
 
-4. Laru Beya + Brujas: Forge dynamic partnerships outsisde the surf/skate community: Brujas partner with NY Restoration Project (tree planting organization) and host tree planting events, Laru Beya partner with local schools/organizations near the most affected areas of the beach and offer educational talks regarding the project's findings. The goal? Equip the youth with knowledge so they can enhance their urban resilience to climate change.
+4. Laru Beya + Brujas: Forge dynamic partnerships outside the surf/skate community: Brujas partner with NY Restoration Project (tree planting organization) and host tree planting events, Laru Beya partner with local schools/organizations near the most affected areas of the beach and offer educational talks regarding the project's findings. The goal? Equip the youth with knowledge so they can enhance their urban resilience to climate change.
 
 ## Future Investigations
 
@@ -119,7 +119,7 @@ Air Quality:
 
 Please review the full analysis in the jupyter notebook [ShreddingBoundaries_DS_EnviroYouth_ActionSports](https://github.com/karisteph/ShreddingBoundaries_DS_EnviroYouth_ActionSports/blob/main/ShreddingBoundaries_DS_EnviroYouth_ActionSports.ipynb)
 
-Refer to the [Presentation](https://www.canva.com/design/DAGI3kww6GY/g1BcNCC9PspndSiHOoOfug/edit?utm_content=DAGI3kww6GY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+Refer to the [Presentation](https://www.canva.com/design/DAGJhsmSv70/HENltxsmRZSqQ01x9Q01-w/view?utm_content=DAGJhsmSv70&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## Contributor
 

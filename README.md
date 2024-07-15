@@ -127,8 +127,8 @@ Refer to the [Presentation](https://www.canva.com/design/DAGJhsmSv70/HENltxsmRZS
 
 ## Repository Structure
 ```
-|— ShreddingBoundaries_DS_EnviroYouth_ActionSports_Repo.pdf  <- PDF version of repository
 |— ShreddingBoundaries_Presentation.pdf                       <- PDF version of project presentation
+|— ShreddingBoundaries_DS_EnviroYouth_ActionSports_Repo_PDF.pdf <- PDF version of repository
 |— ShreddingBoundaries_DS_EnviroYouth_ActionSports.ipynb      <- Interactive computing environment including analysis in Jupyter                                                                            notebook
 |— ShreddingBoundaries_DS_EnviroYouth_ActionSports-JupyterNotebook_PDF.pdf  <- PDF version of jupyter notebook
 |— README.md                                                 <- The top-level README for reviewers of this project
